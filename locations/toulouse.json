@@ -1,5 +1,16 @@
 [
     {
+        "name": "La ferme attitude",
+        "openHours": "Monday to Saturday: 9h30 - 19h30",
+        "lat": 43.6009773,
+        "lon": 1.3795652,
+        "address": "23 Rue d'Astorg",
+        "type" : "coffee/restaurant/shop",
+        "power": {"available": false},
+        "wifi": {"available": false},
+        "url": "http://www.fermeattitude.fr"
+    },
+    {
         "name": "Café Contretemps",
         "openHours": "Monday to Saturday: 9h - 21h",
         "lat": 43.600479,
