@@ -89,5 +89,29 @@
         "url": "http://www.belushis.com/bars/paris/gare-du-nord",
         "power": {"available": true},
         "wifi": {"available": false}
+    },
+        {
+        "name": "La Gaïeté Lyrique",
+        "lat": 48.8665628,
+        "lon": 2.3512001,
+        "address": "3 bis Rue Papin, 75003 Paris",
+        "openHours" : "From Thuesday to Saturday 14h-20h, Sunday 14h-18h",
+        "type": "café",
+        "comment" : "Café on 1st and 2nd floor. Prefer the 2nd one",
+        "url": "http://gaite-lyrique.net",
+        "power": {"available": true},
+        "wifi": {"available": true}
+    },
+        {
+        "name": "La Halle Pajol - Auberge de Jeunesse Paris Yves Robert",
+        "lat": 48.8886871,
+        "lon": 2.3608308,
+        "address": "20 Espl. Nathalie Sarraute, 75018 Paris",
+        "openHours" : "0h-24h",
+        "type": "café + hostel",
+        "comment" : "One of the place with the cheapest beers in Paris - not sure the café is opened all day long as the hostel",
+        "url": "http://halle-pajol.fr",
+        "power": {"available": true},
+        "wifi": {"available": false}
     }
 ]
