@@ -1,4 +1,16 @@
-[
+[    
+    {
+        "name": "Mel, Mich & Martin",
+        "lat": 48.8509681,
+        "lon": 2.3794449,
+        "address": "8 Rue Saint-Bernard, 75011 Paris",
+        "openHours" : "8h00-19h00",
+        "type": "coffee, restaurant",
+        "comment" : "Bright and quiet place café with scrumptious home made food and good coffee. Close to a pétanque area surrounded by greeneries.",
+        "url": "http://www.melmichetmartin.paris/",
+        "power": {"available": true},
+        "wifi": {"available": true}
+    },
     {
         "name": "Strada Café",
         "lat": 48.8469496,
