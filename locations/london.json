@@ -1,5 +1,15 @@
 [
     {
+        "name": "Barbican Centre",
+        "lat": 51.5200801,
+        "lon": -0.0954517,
+        "address": "Silk St, London EC2Y 8DS",
+        "openHours": "Monday to Saturday, 09:00 to 23:00; Sunday, 11:00 to 23:00",
+        "type": "coffee, arts space, theatre, cinema, bar, restaurant",
+        "power": { "available": true },
+        "wifi": { "available": true }
+    },
+    {
         "name": "Timberyard",
         "lat": 51.524126,
         "lon": -0.09638199999994868,
