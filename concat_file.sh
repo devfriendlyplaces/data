@@ -1,4 +1,4 @@
-files=`ls locations/*.json`
+files=`ls locations/*.json | grep -v locations.json` 
 
 last_file=`ls locations/*.json | tail -n1`
 
