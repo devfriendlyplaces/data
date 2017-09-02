@@ -9,7 +9,7 @@ do
     then
         cat $file | sed '1d'| sed '$d' | sed '$d'
         echo '    },'
-    else     
+    else
         cat $file | sed '1d' | sed '$d'
     fi
 done >> all_places.json
