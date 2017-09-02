@@ -1,2 +1,15 @@
+language: ruby
 script: ./concat_file.sh
-before_install: openssl aes-256-cbc -K $encrypted_e0c3032027b2_key -iv $encrypted_e0c3032027b2_iv -in .dfp-travis.enc -out ~\/.ssh/dfp_travis -d
+before_install:
+  - touch ~/.ssh/dfp_travis
+  - openssl aes-256-cbc -K $encrypted_e0c3032027b2_key -iv $encrypted_e0c3032027b2_iv -in .dfp_travis.enc -out ~/.ssh/dfp_travis -d
+  - chmod 400 ~/.ssh/dfp_travis
+after_script:
+  - cd ..
+  - export GIT_SSH_COMMAND='ssh -i ~/.ssh/dfp_travis -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no'
+  - git clone git@github.com:devfriendlyplaces/elm-site.git
+  - cd elm-site
+  - cp ../data/all_places.json .
+  - git add all_places.json
+  - git commit -m "Update places"
+  - git push origin master
