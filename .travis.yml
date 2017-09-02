@@ -1,1 +1,2 @@
 script: ./concat_file.sh
+before_install: openssl aes-256-cbc -K $encrypted_e0c3032027b2_key -iv $encrypted_e0c3032027b2_iv -in .dfp-travis.enc -out ~\/.ssh/dfp_travis -d
