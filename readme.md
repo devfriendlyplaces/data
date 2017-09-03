@@ -2,23 +2,7 @@ Dev friendly places
 ===================
 A collection of nice places where developers can work fine and some useful informations about these places (wifi ? power ? ...) on the map of a location.
 
-Current locations
------------------
- - [Cumbria](https://devfriendlyplaces.github.io/elm-site/#cumbria)
- - [Dakar](https://devfriendlyplaces.github.io/elm-site/#dakar)
- - [Foix](https://devfriendlyplaces.github.io/elm-site/#foix)
- - [Lille](https://devfriendlyplaces.github.io/elm-site/#lille)
- - [London](https://devfriendlyplaces.github.io/elm-site/#london)
- - [Lyon](https://devfriendlyplaces.github.io/elm-site/#lyon)
- - [Marseille](https://devfriendlyplaces.github.io/elm-site/#marseille)
- - [Montpellier](https://devfriendlyplaces.github.io/elm-site/#montpellier)
- - [Nantes](https://devfriendlyplaces.github.io/elm-site/#nantes)
- - [Oxford](https://devfriendlyplaces.github.io/elm-site/#oxford)
- - [Paris](https://devfriendlyplaces.github.io/elm-site/#paris)
- - [Saint-Étienne](https://devfriendlyplaces.github.io/elm-site/#saint-etienne)
- - [Saint-Louis](https://devfriendlyplaces.github.io/elm-site/#saint-louis)
- - [Toulon](https://devfriendlyplaces.github.io/elm-site/#toulon)
- - [Toulouse](https://devfriendlyplaces.github.io/elm-site/#toulouse)
+These nice places can be seen on a map on [https://devfriendlyplaces.net](https://devfriendlyplaces.net).
 
 Contribute
 ----------
@@ -33,7 +17,7 @@ If when thinking to that place you can say yes to the two following questions:
 then they are nice places to add. Both criteria are mandatory.
 
 ### Add places to an existing location
-That is easy, go on this repo: [devfriendlyplaces/data](https://github.com/devfriendlyplaces/data) and just edit the json file `locations/yourlocation.json` and submit a pull request (where `yourlocation` is the name of your location).
+You just need do edit the json file `locations/yourlocation.json` and submit a pull request (where `yourlocation` is the name of your location).
 
 ### Add a new location
 There are two steps:
