@@ -125,5 +125,17 @@
         "url": "http://halle-pajol.fr",
         "power": {"available": true},
         "wifi": {"available": false}
+    },
+        {
+        "name": "Zouzou Café",
+        "lat": 48.8665088,
+        "lon": 2.3443069,
+        "address": "8 Rue Léopold Bellan, 75002 Paris",
+        "openHours" : "8h30-17h30",
+        "type": "Café + restaurant",
+        "comment" : "For lunch, home made dishes, healthy style, and coffee, tea, juices, cakes all day. Organic food. Nice people, very quiet.",
+        "url": "http://zouzoucafe.com",
+        "power": {"available": true},
+        "wifi": {"available": true}
     }
 ]
