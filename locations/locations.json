@@ -196,5 +196,11 @@
         "lat" : 50.6246191,
         "lon" : 5.5290505,
         "defaultZoom":  12
+    },
+    {
+        "name" : "Calais",
+        "lat" : 50.951290,
+        "lon" : 1.858686,
+        "defaultZoom":  12
     }
 ]
