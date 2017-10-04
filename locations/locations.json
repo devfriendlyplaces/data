@@ -42,6 +42,12 @@
         "defaultZoom": 15
     },
     {
+        "name": "Calais",
+        "lat": 50.956,
+        "lon": 1.9087,
+        "defaultZoom": 14
+    },
+    {
         "name": "Cumbria",
         "lat": 54.6190,
         "lon": -2.9004,
