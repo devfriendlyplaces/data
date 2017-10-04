@@ -1,5 +1,35 @@
 [
     {
+        "name": "Dandy",
+        "lat": 51.551252,
+        "lon": -0.0864523,
+        "address": "20 Newington Green, London N16 9PU",
+        "openHours": "Monday to Wednesday, 08:00 to 17:00; Thursday to Sunday, 08:00 to 23:00",
+        "type": "coffee, bakery, restaurant",
+        "power": { "available": true },
+        "wifi": { "available": true }
+    },
+    {
+        "name": "Mildmay Community Centre",
+        "lat": 51.5508424,
+        "lon": -0.0846127,
+        "address": "Woodville Rd, London N16 8NA",
+        "openHours": "Monday to Saturday, 09:30 to 21:00",
+        "type": "community centre, garden, hub",
+        "power": { "available": true },
+        "wifi": { "available": true }
+    },
+    {
+        "name": "Dalston Eastern Curve Garden",
+        "lat": 51.5464792,
+        "lon": -0.0763661,
+        "address": "13 Dalston Ln, London E8 3DF",
+        "openHours": "Everyday from 11:00 to 19:00, 22:00 or 23:00",
+        "type": "coffee, garden, popup pizza, community",
+        "power": { "available": false },
+        "wifi": { "available": false }
+    },
+    {
         "name": "Barbican Centre",
         "lat": 51.5200801,
         "lon": -0.0954517,
