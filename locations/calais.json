@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Le Lieu Commun",
+        "openHours": "Monday - Friday, 9h00 - 18h00",
+        "lat": 50.948865,
+        "lon": 1.853318,
+        "address":  "8 rue des soupirants",
+        "type" : "Coworking",
+        "wifi": {"available": true},
+        "power": {"available": true},
+        "url": "https://www.facebook.com/lelieucommun"
+    }
+]
