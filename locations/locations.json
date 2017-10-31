@@ -202,5 +202,11 @@
         "lat" : 50.6246191,
         "lon" : 5.5290505,
         "defaultZoom":  12
+    },
+	{
+        "name" : "Brive-la-Gaillarde",
+        "lat" : 45.158878,
+        "lon" : 1.533141,
+        "defaultZoom":  15
     }
 ]
