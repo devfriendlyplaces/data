@@ -5,7 +5,7 @@
         "lon": -0.1063137,
         "address": "346 Upper St, London N1 0PD",
         "openHours": "Monday to Friday, 07:00 to 19:00; Saturday and Sunday, 09:30 to 17:30",
-        "type": "coffee, bakery",
+        "type": "coffee, bakery, quiet",
         "power": { "available": true },
         "wifi": { "available": true }
     },
@@ -15,7 +15,7 @@
         "lon": -0.0864523,
         "address": "20 Newington Green, London N16 9PU",
         "openHours": "Monday to Wednesday, 08:00 to 17:00; Thursday to Sunday, 08:00 to 23:00",
-        "type": "coffee, bakery, restaurant, quiet",
+        "type": "coffee, bakery, restaurant",
         "power": { "available": true },
         "wifi": { "available": true }
     },
