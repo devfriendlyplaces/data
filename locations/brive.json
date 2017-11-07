@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Le Chantilly",
+        "lat": 45.158552, 
+        "lon": 1.532314,
+        "address":  "9 Rue du Lion d'or",
+        "url": "https://www.le-chantilly.com/",
+        "openHours": "Monday: 12am to 7pm, Tuesday to Friday: - 11am to 7pm, Saturday: 9:30am to 7pm",
+        "type" : "Tea room",
+        "power": {"available": true},
+        "wifi": {"available": true}
+    }
+]
