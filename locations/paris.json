@@ -137,5 +137,17 @@
         "url": "http://zouzoucafe.com",
         "power": {"available": true},
         "wifi": {"available": true}
+    },
+    {
+        "name": "Blackburn Café Show",
+        "lat": 48.8736257,
+        "lon": 2.3437387,
+        "address": "34 Rue Richer, 75009 Paris",
+        "openHours" : "10h00-21h00",
+        "type": "coffee, theatre, juice, light food",
+        "comment" : "A bright and quiet tiny place with a joint theatre ticket office.",
+        "url": "http://www.blackburn-paris.com/",
+        "power": {"available": true},
+        "wifi": {"available": true}
     }
 ]
