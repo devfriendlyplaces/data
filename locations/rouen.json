@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Café Dessiné",
+        "lat": 49.4406527,
+        "lon": 1.0984240,
+        "openHours": "Tuesday - 10am to 7pm - Wednesday - 9am to 7pm - Thursday to Saturday - 9am to 10pm - Sunday - 11am to 7pm",
+        "address":  "31, rue Damiette 76000 Rouen",
+        "url": "http://cafedessine.fr/",
+        "type": "Brunch, Breakfast, Lunch, Games, Comics, Coffee Shop",
+        "power": {"available": true},
+        "wifi": {"available": true}
+    }
+]
