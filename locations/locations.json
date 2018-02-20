@@ -203,10 +203,16 @@
         "lon" : 5.5290505,
         "defaultZoom":  12
     },
-	{
+    {
         "name" : "Brive-la-Gaillarde",
         "lat" : 45.158878,
         "lon" : 1.533141,
         "defaultZoom":  15
+    },
+    {
+        "name" : "Rouen",
+        "lat" : 49.4404,
+        "lon" : 1.0926, 
+        "defaultZoom": 15
     }
 ]
