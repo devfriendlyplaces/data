@@ -61,7 +61,7 @@
         "type" : "Coffee and Restaurant",
         "url": "https://fr-fr.facebook.com/BUNcafe",
         "power": {"available": true},
-        "wifi": {"available": true}
+        "wifi": {"available": false}
     },
     {
         "name": "Fairview Coffee",
