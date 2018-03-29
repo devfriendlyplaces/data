@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Kathy's Deli & Cupcakery",
+        "openHours": "Monday - Friday: 08h00 - 18h00, Saturday: 08h00 - 16h00",
+        "lat": 49.6011223,
+        "lon": 6.1319008,
+        "address":  "9 Rue de Strasbourg, 2561 Luxembourg",
+        "type" : "Restaurant, Cupcakes & Coffee Shop",
+        "wifi": {"available": true},
+        "power": {"available": true},
+        "url": "https://www.facebook.com/KathysCupcakery/"
+    }
+]
