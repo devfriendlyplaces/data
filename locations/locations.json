@@ -72,6 +72,12 @@
         "defaultZoom":  14
     },
     {
+        "name": "Luxembourg",
+        "lat": 49.6,
+        "lon": 6.116667,
+        "defaultZoom":  14
+    },
+    {
         "name": "Herault",
         "lat": 43.7453,
         "lon": 3.6172,
