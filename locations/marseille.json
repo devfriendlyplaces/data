@@ -7,7 +7,7 @@
         "address":  "2B Rue Fontange, 13006 Marseille",
         "type" : "coffeeshop",
         "power": {"available": false},
-        "wifi": {"available": false}
+        "wifi": {"available": false, "comment": "à vérifier, je n'ai pas demandé"}
     },
     {
         "name": "Histoire de l'œil",
@@ -15,6 +15,7 @@
         "lon": 5.3830756,
         "openHours": "Tuesday to Saturday, 10h00 - 19h00",
         "address":  "25 Rue Fontange, 13006 Marseille 06",
+        "comment": "y'a des tables en intérieur _et_ en extérieur, à l'ombre d'un arbre",
         "type" : "bookshop",
         "url": "http://histoiredeloeil.com",
         "power": {"available": true},
