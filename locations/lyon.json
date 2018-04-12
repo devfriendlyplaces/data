@@ -16,5 +16,14 @@
         "type": "coffee",
         "power": {"available": true},
         "wifi": {"available": true}
+    },
+    {
+        "name": "Puzzle Café",
+        "lat": 45.764192,
+        "lon": 4.833711,
+        "address":  "4 rue de la poullaillerie, 69002, Lyon",
+        "type": "coffee",
+        "power": {"available": true},
+        "wifi": {"available": true}
     }
 ]
