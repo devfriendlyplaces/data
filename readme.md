@@ -2,7 +2,7 @@ Dev friendly places
 ===================
 A collection of nice places where developers can work fine and some useful informations about these places (wifi ? power ? ...) on the map of a location.
 
-These nice places can be seen on a map on [https://devfriendlyplaces.net](https://devfriendlyplaces.net).
+These nice places can be seen on a map on [https://www.devfriendlyplaces.net](https://www.devfriendlyplaces.net).
 
 Contribute
 ----------
