@@ -10,5 +10,17 @@
       "wifi": {"available": true, "comment": "just ask to the staff :)"},
       "url": "http://www.husetgent.be/",
       "comment": "Nice coffee that makes affordable lunches in an ancient hostel. Really sweet terrace in the back."
+    },
+     {
+      "name": "Vooruit",
+      "Opnening": "Mon, Tue, Wed-> 10:00 - 01:00 / Thu, Fri, Sat -> 10:00 - 02:00 / Sun -> 12:00 - 01:00",
+      "lat": 51.0476851,
+      "lon": 3.7274632,
+      "address": "Sint-Pietersnieuwstraat 23, Gand 9000",
+      "type" : "coffee/restaurant/bar/art center",
+      "power": {"available": true, "comment": "some multi-sockets next to the tables nearby the walls"},
+      "wifi": {"available": true, "comment": "kind of intranet, no password required"},
+      "url": "http://vooruit.be/en/",
+      "comment": "Huge friendly place with local beers. An institution."
     }
 ]
