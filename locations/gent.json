@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Huset",
+      "Opnening": "From monday to friday, 11h00 - 18h00",
+      "lat": 51.0548247,
+      "lon": 3.7131703000000016,
+      "address": "Hoogstraat 49, 9000 Gent",
+      "type" : "coffee/restaurant",
+      "power": {"available": true, "comment": "many multi-sockets next to the tables"},
+      "wifi": {"available": true, "comment": "just ask to the staff :)"},
+      "url": "http://www.husetgent.be/",
+      "comment": "Nice coffee that makes affordable lunches in an ancient hostel. Really sweet terrace in the back."
+    }
+]
