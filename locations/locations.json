@@ -204,6 +204,12 @@
         "defaultZoom":  13
     },
     {
+        "name" : "Sète",
+        "lat" : 43.3942538,
+        "lon" : 3.6122974,
+        "defaultZoom":  13
+    },
+    {
         "name" : "Liège",
         "lat" : 50.6246191,
         "lon" : 5.5290505,
