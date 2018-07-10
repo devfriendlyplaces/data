@@ -1,5 +1,26 @@
 [
     {
+        "name": "Le Tiers-Lieu de Bègles",
+        "lat": 44.8075735,
+        "lon": -0.5489797,
+        "address":  "1 Place du 14 Juillet, 33130 Bègles",
+        "url": "https://fr-fr.facebook.com/TiersLieuBegles/",
+        "openHours": "Monday to Friday",
+        "type" : "coworking, coop",
+        "power": {"available": true},
+        "wifi": {"available": true}
+    },
+    {
+        "name": "Le Poulailler",
+        "lat": 44.8072838,
+        "lon": -0.5509297,
+        "address":  "1-ter Place du 14 Juillet, 33130 Bègles",
+        "openHours": "Monday to Friday - 08:30am to 09:00pm, Saturday - 09:00am to 01:30pm",
+        "type" : "café,organic groceries,meetups",
+        "power": {"available": true},
+        "wifi": {"available": true}
+    },
+    {
         "name": "Saint Seurin",
         "lat": 44.8437174,
         "lon": -0.5868276,
