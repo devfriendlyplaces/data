@@ -192,6 +192,12 @@
         "defaultZoom": 12
     },
     {
+        "name" : "Nîmes",
+        "lat" : 43.8375711,
+        "lon" : 4.3413666,
+        "defaultZoom": 14
+    },
+    {
         "name" : "Nantes",
         "lat" : 47.2081436,
         "lon" : -1.5619954,

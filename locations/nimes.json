@@ -1,0 +1,23 @@
+	[
+	    {
+	        "name": "Le Prolé",
+	        "lat": 43.8343513,
+	        "lon": 4.3573299,
+	        "openHours": "From Monday to Saturday - 08:00am to 10:00pm",
+	        "address": "20 Rue Jean Reboul, 30900 Nîmes",
+	        "type": "Café, patio",
+	        "power": {"available": true },
+	        "wifi": {"available": false }
+	    },
+      {
+	        "name": "Musée de la Romanité",
+	        "lat": 43.8338312,
+	        "lon": 4.3574534,
+	        "openHours": "From Monday to Sunday - 10:00am to 7:00pm",
+	        "address": "16 Boulevard des Arènes, 30900 Nîmes",
+	        "type": "Museum, café, garden",
+	        "url": "https://museedelaromanite.fr/",
+	        "power": {"available": false },
+	        "wifi": {"available": false }
+	    }
+	]
