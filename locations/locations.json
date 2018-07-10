@@ -48,6 +48,12 @@
         "defaultZoom": 14
     },
     {
+        "name": "Crest",
+        "lat": 44.7311897,
+        "lon": 4.98612,
+        "defaultZoom": 13
+    },
+    {
         "name": "Cumbria",
         "lat": 54.6190,
         "lon": -2.9004,
