@@ -66,9 +66,21 @@
         "defaultZoom":  13
     },
     {
+        "name": "Epinal",
+        "lat": 48.174517,
+        "lon": 6.450162,
+        "defaultZoom":  13
+    },
+    {
         "name": "Fronton",
         "lat": 43.840098,
         "lon": 1.389654,
+        "defaultZoom":  13
+    },
+    {
+        "name": "Gent",
+        "lat": 51.052974,
+        "lon": 3.7270591,
         "defaultZoom":  13
     },
     {
