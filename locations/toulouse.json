@@ -249,5 +249,27 @@
         "power": {"available": true},
         "wifi": {"available": true},
         "url": "https://fr-fr.facebook.com/sweethomecafe31/"
+    },
+    {
+        "name": "Le Bonheur est dans le Pot",
+        "openHours": "Tuesday and Saturday: 11:00 - 22:30, All other days 11:00 - 19:00",
+        "lat": 43.6035675,
+        "lon": 1.4349094,
+        "address": "17 place saint Pierre",
+        "type" : "coffee/restaurant/shop",
+        "power": {"available": true},
+        "wifi": {"available": true},
+        "url": "https://www.facebook.com/pg/lesamisdubonheur/"
+    },
+    {
+        "name": "Magnolia café",
+        "openHours": "Monday - Saturday: 10:30 - 18:30",
+        "lat": 43.5994,
+        "lon": 1.4439,
+        "address": "49, Rue des Filatiers",
+        "type" : "coffee/restaurant",
+        "power": {"available": true},
+        "wifi": {"available": true},
+        "url": "https://www.facebook.com/Magnolia-Caf%C3%A9-108114426194417/"
     }
 ]
