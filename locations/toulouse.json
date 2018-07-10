@@ -271,5 +271,17 @@
         "power": {"available": true},
         "wifi": {"available": true},
         "url": "https://www.facebook.com/Magnolia-Caf%C3%A9-108114426194417/"
+    }, 
+    {
+        "name": "L'Eurêkafé",
+        "openHours": "Monday - Friday: 09:00 - 22:00, Saturday & Sunday: 11:00 - 22:00",
+        "lat": 43.6026852,
+        "lon": 1.4392912,
+        "address": "24 Rue Léon Gambetta",
+        "type" : "slow/scientific coffee",
+        "power": {"available": true},
+        "wifi": {"available": true},
+        "url": "https://www.eurekafe.fr/"
+
     }
 ]
