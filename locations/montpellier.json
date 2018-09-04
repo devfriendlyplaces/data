@@ -64,17 +64,6 @@
         "wifi": {"available": false}
     },
     {
-        "name": "Fairview Coffee",
-        "lat": 43.606992,
-        "lon": 3.877552,
-        "openHours": "Tuesday to Saturday - 9:30am to 7:00pm and Sundays - 11:00am to 5:00pm",
-        "address":  "6, rue Loys",
-        "type": "Coffee and Restaurant",
-        "url": "https://www.facebook.com/FairviewCoffee",
-        "power": {"available": true },
-        "wifi": {"available": true }
-    },
-    {
         "name": "La Panacée",
         "lat": 43.61282,
         "lon": 3.87811,
