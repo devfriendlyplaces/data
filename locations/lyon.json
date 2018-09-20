@@ -25,5 +25,14 @@
         "type": "coffee",
         "power": {"available": true},
         "wifi": {"available": true}
-    }
+    },
+      {
+        "name": "La Myne",
+        "lat": 45,7836213, 
+        "lon": 4,8844091,
+        "address":  "1, rue du Luizet, 69100, Villeurbanne",
+        "type": "Hackerspace",
+        "power": {"available": true},
+        "wifi": {"available": true}
+}
 ]
