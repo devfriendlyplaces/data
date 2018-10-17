@@ -1,5 +1,16 @@
 [
     {
+        "name": "Au Café Couture",
+        "lat": 49.36319,
+        "lon": 1.10273,
+        "openHours": "Wednesday to Saturday - 10am to 12am and 2pm to 8pm",
+        "address": "7, rue Alsace-Lorraine 76000 Rouen",
+        "url": "http://aucafecouturerouen.fr/",
+        "type": "coffee, juice",
+        "power": {"available": true},
+        "wifi": {"available": true}
+    },
+    {
         "name": "Café Dessiné",
         "lat": 49.4406527,
         "lon": 1.0984240,
