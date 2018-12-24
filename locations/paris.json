@@ -1,4 +1,15 @@
-[    
+[
+    {
+        "name": "Café Jeux Natéma",
+        "lat": 48.85668,
+        "lon": 2.3995703,
+        "address": "39 Rue des Orteaux, 75020 Paris",
+        "openHours" : "Monday to Friday: 9h00-19h00",
+        "type": "coffee, board games",
+        "comment" : "Le café jeux Natema propose des repas, des boissons, des jeux, des loisirs créatifs, des soirées à thème pour tous les âges.",
+        "url": "https://www.facebook.com/cafejeuxnatema/",
+        "power": {"available": true}
+    },
     {
         "name": "Mel, Mich & Martin",
         "lat": 48.8509681,
