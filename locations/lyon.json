@@ -25,5 +25,14 @@
         "type": "coffee",
         "power": {"available": true},
         "wifi": {"available": true}
-    }
+    },
+    {
+        "name": "Le Labo",
+        "lat": 45.75029,
+        "lon": 4.83938,
+        "address":  "39 rue de Marseille, 69002, Lyon",
+        "type": "coffee",
+        "power": {"available": true},
+        "wifi": {"available": true}
+}
 ]
