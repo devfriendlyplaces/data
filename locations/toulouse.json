@@ -155,7 +155,7 @@
     {
         "name": "Le Parc",
         "openHours": "Monday - Friday, 7h30 - 21h00",
-        "lat": 43.635600,
+        "lat": 43.63597,
         "lon": 1.384067,
         "address":  "3 pl Marronniers, 31700 BLAGNAC, phone:05 61 71 61 71",
         "type" : "coffee/restaurant",
@@ -253,7 +253,7 @@
     {
         "name": "Le Bonheur est dans le Pot",
         "openHours": "Tuesday and Saturday: 11:00 - 22:30, All other days 11:00 - 19:00",
-        "lat": 43.6035675,
+        "lat": 43.60361,
         "lon": 1.4349094,
         "address": "17 place saint Pierre",
         "type" : "coffee/restaurant/shop",
@@ -262,26 +262,27 @@
         "url": "https://www.facebook.com/pg/lesamisdubonheur/"
     },
     {
-        "name": "Magnolia café",
-        "openHours": "Monday - Saturday: 10:30 - 18:30",
-        "lat": 43.5994,
-        "lon": 1.4439,
-        "address": "49, Rue des Filatiers",
-        "type" : "coffee/restaurant",
-        "power": {"available": true},
-        "wifi": {"available": true},
-        "url": "https://www.facebook.com/Magnolia-Caf%C3%A9-108114426194417/"
-    }, 
-    {
         "name": "L'Eurêkafé",
         "openHours": "Monday - Friday: 09:00 - 22:00, Saturday & Sunday: 11:00 - 22:00",
         "lat": 43.6026852,
-        "lon": 1.4392912,
+        "lon": 1.44147,
         "address": "24 Rue Léon Gambetta",
-        "type" : "slow/scientific coffee",
+        "type" : "slow / scientific coffee / board games",
         "power": {"available": true},
         "wifi": {"available": true},
-        "url": "https://www.eurekafe.fr/"
-
+        "url": "https://www.eurekafe.fr/", 
+        "comment": "Scientific coffe. Pay by time spent. Some private room avaiable for free for meetings. Noisy with board-gamers after 16:30."
+    }, 
+    {
+        "name": "Der Apfelstrudel",
+        "openHours": "Tuesday - Friday: 08:00 - 18:00, Saturday & Sunday: 9:30:00 - 18:00",
+        "lat": 43.63637,
+        "lon": 1.38231,
+        "address": "2 cheminement des Sophoras 31700 Blagnac",
+        "type" : "coffee and teamroom",
+        "power": {"available": true},
+        "wifi": {"available": true},
+        "url": "https://www.derapfelstrudel.com/",
+        "comment": "German tea-room, with huge cakes filled with lot of cream. Quiet, free wifi"
     }
 ]
