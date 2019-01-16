@@ -1,4 +1,16 @@
 [
+   {
+        "name": "Ménagerie de Verre",
+        "lat": 48.8631985,
+        "lon": 2.3763201,
+        "address": "12 Rue Lechevin, 75011 Paris",
+        "openHours" : "Monday to Sunday: 10h00-18h00",
+        "type": "danse, vegetarian, cafe, office space",
+        "comment" : "Café/restaurant dans un lieu atypique et préservé, calme et lumineux, brassant les pratiques de la danse et de la crétaion graphique.",
+        "url": "http://www.menagerie-de-verre.org/",
+        "power": {"available": false},
+        "wifi": {"available": false}
+    },
     {
         "name": "Café Jeux Natéma",
         "lat": 48.85668,
