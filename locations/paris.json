@@ -1,5 +1,29 @@
 [
    {
+        "name": "Le FabU",
+        "lat": 48.8617463,
+        "lon": 2.4402789,
+        "address": "Le cinéma LE MELIES, 12 Place Jean Jaurès, 93100 Montreuil",
+        "openHours" : "Monday to Sunday: 12h00-21h30",
+        "type": "cafe, library",
+        "comment" : "Café/restaurant/bouquinerie au premier étage du cinéma le Mélies. Terasse ouverte au printemps/été/automne.",
+        "url": "https://www.facebook.com/lafabriqueutile/",
+        "power": {"available": undefined},
+        "wifi": {"available": undefined}
+    },
+   {
+        "name": "Nouveau théâtre de Montreuil",
+        "lat": 48.862008,
+        "lon": 2.4422572,
+        "address": "10 Place Jean Jaurès, 93100 Montreuil",
+        "openHours" : "Tuesday to Saturday: 11h00-18h00",
+        "type": "theater, restaurant",
+        "comment" : "Café/restaurant mais aussi un coin libre au détour d'un escalier, sous un palmier.",
+        "url": "http://www.nouveau-theatre-montreuil.com/",
+        "power": {"available": true},
+        "wifi": {"available": false}
+    },
+   {
         "name": "Ménagerie de Verre",
         "lat": 48.8631985,
         "lon": 2.3763201,
