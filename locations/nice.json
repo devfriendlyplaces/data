@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Bubble Time",
+        "openHours": "From Monday to Friday - 12:00am to 7:00pm - Week-end - 10:00am to 7:00pm",
+        "lat": 43.70552,
+        "lon": 7.26617,
+        "address": "25 Rue Assalit - 06000 Nice",
+        "type" : "bubble tea",
+        "power": {"available": true},
+        "wifi": {"available": true},
+        "url": "https://business.google.com/website/bubbletime"
+    },
+    {
+        "name": "BiogStore",
+        "openHours": "From Monday to Saturday - 10:00am to 6:30pm",
+        "lat": 43.70275,
+        "lon": 7.26746,
+        "address": "35 Avenue du Marechal Foch - 06000 Nice",
+        "type" : "vegetarian restaurant - tea & coffee",
+        "power": {"available": true},
+        "wifi": {"available": true},
+        "url": "biogstore.com/"
+  },
+    {
+        "name": "Palette café",
+        "openHours": "From Tuesday to Saturday - 7:30am to 6:00pm - Sunday - 10:00am to 3:00pm",
+        "lat": 43.7008, 
+        "lon": 7.27729,
+        "address": "26 Avenue Saint-Jean-Baptiste - 06000 Nice",
+        "type" : "vegetarian restaurant - tea & coffee",
+        "power": {"available": true},
+        "wifi": {"available": false},
+        "url": "http://www.palettecafes.com/"
+  }
+]
