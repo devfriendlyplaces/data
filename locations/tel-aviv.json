@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Bell",
+        "lat": 32.054214,
+        "lon": 34.751380,
+        "openHours": "09h00 - 22h00",
+        "address": "Kikar Kdumim 10, Tel Aviv-Yafo, Israel",
+        "type" : "Coffee/Restaurant",
+        "power": {"available": true},
+        "wifi": {"available": true}
+    }
+]
