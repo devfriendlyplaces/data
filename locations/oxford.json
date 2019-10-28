@@ -9,5 +9,14 @@
         "power": {"available": true, "comment": "a few plugs here and there, just ask the staff"},
         "wifi": {"available": true, "comment": "the password is on the blackboards"},
         "url": "http://naturalbreadcompany.co.uk/"
+    },
+    {
+        "name": "Common Ground Study",
+        "openHours": "8.00am - 6pm",
+        "lat": 51.758159,
+        "lon": 1.262703,
+        "address": "37-38 Little Clarendon Street, Oxford",
+        "type": "Collaborative place",
+        "url": "https://www.commongroundstudy.space/"
     }
 ]
