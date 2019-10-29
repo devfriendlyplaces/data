@@ -278,5 +278,16 @@
         "url": "http://chez-theo.org/",
         "power": {"available": true },
         "wifi": {"available": true }
+    },
+    {
+        "name": "Koffee & Kitchen",
+        "lat": 43.610720,
+        "lon": 3.877036,
+        "openHours": "From Monday to Saturday - 08:00am to 6:30pm",
+        "address": "28 Rue Foch, 34000 Montpellier",
+        "type": "Coffee",
+        "url": "https://www.facebook.com/Koffee-Kitchen-Montpellier-163062047233505/",
+        "power": {"available": true },
+        "wifi": {"available": true }
     }
 ]
