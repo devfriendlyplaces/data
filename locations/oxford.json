@@ -9,5 +9,16 @@
         "power": {"available": true, "comment": "a few plugs here and there, just ask the staff"},
         "wifi": {"available": true, "comment": "the password is on the blackboards"},
         "url": "http://naturalbreadcompany.co.uk/"
+    },
+    {
+        "name": "Oxford Central Library",
+        "openHours": "9.00am - 8pm",
+        "lat": 51.751545,
+        "lon": -1.260535,
+        "address": "Queen St, Westgate, Oxford OX1 1DJ",
+        "type": "Library",
+        "power": {"available": true},
+        "wifi": {"available": true},
+        "url": "https://www.oxfordshire.gov.uk/residents/leisure-and-culture/libraries/find-library/oxfordshire-county-library"
     }
 ]
