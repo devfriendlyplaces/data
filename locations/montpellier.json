@@ -119,17 +119,6 @@
         "wifi": {"available": true, "comment":"ssh and other exotical ports are closed" }
     },
     {
-        "name": "Centre Chorégraphique National Agora",
-        "lat": 43.614141,
-        "lon": 3.878109,
-        "openHours": "From Monday to Friday - 9:30am to 12:30am and 2:00pm to 6:00pm",
-        "address": "18, rue Sainte-Ursule - 34961 Montpellier",
-        "type": "Public Place",
-        "url": "http://www.montpellierdanse.com",
-        "power": {"available": true },
-        "wifi": {"available": true }
-    },
-    {
         "name": "Les Petits Débrouillards",
         "lat": 43.5996813,
         "lon": 3.8747227,
