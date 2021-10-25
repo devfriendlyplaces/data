@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Nulle Part Ailleurs",
+      "Opnening": "From monday to saturday, 09h30 - 20h00",
+      "lat": 48.1742592,
+      "lon": 6.4505618,
+      "address": "3 Place Saint-Goery, 88000, Épinal",
+      "type" : "coffee/restaurant",
+      "power": {"available": true},
+      "wifi": {"available": true, "comment": "just ask to the staff :)"},
+      "url": "https://www.facebook.com/nullepartailleursepinal/"
+    }
+]

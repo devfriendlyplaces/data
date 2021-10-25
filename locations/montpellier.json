@@ -61,18 +61,7 @@
         "type" : "Coffee and Restaurant",
         "url": "https://fr-fr.facebook.com/BUNcafe",
         "power": {"available": true},
-        "wifi": {"available": true}
-    },
-    {
-        "name": "Fairview Coffee",
-        "lat": 43.606992,
-        "lon": 3.877552,
-        "openHours": "Tuesday to Saturday - 9:30am to 7:00pm and Sundays - 11:00am to 5:00pm",
-        "address":  "6, rue Loys",
-        "type": "Coffee and Restaurant",
-        "url": "https://www.facebook.com/FairviewCoffee",
-        "power": {"available": true },
-        "wifi": {"available": true }
+        "wifi": {"available": false}
     },
     {
         "name": "La Panacée",
@@ -281,23 +270,12 @@
     },
     {
         "name": "Chez Théo",
-        "lat": 43.6123468,
-        "lon": 3.8788032,
+        "lat": 43.6122344,
+        "lon": 3.8769202,
         "openHours": "From Monday to Saturday - 11:00am to 7:00pm",
         "address": "45 rue de l'Aiguillerie - 34000 Montpellier",
         "type": "Coffee",
         "url": "http://chez-theo.org/",
-        "power": {"available": true },
-        "wifi": {"available": true }
-    },
-    {
-        "name": "Le Dada Café",
-        "lat": 43.6123468,
-        "lon": 3.8788032,
-        "openHours": "From Monday to Friday - 8:00am to 4:00pm",
-        "address": "43 rue de l'Université - 34000 Montpellier",
-        "type": "Restaurant, pub, coffee",
-        "url": "https://www.facebook.com/le-dada-caf%C3%A9-280554891960129/",
         "power": {"available": true },
         "wifi": {"available": true }
     }

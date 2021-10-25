@@ -1,0 +1,12 @@
+	[
+	  {
+	    "name": "Le bar à lire",
+	    "lat": 43.4010859,
+	    "lon": 3.6942383,
+	    "address":  "Grand'rue Mario Roustan 28, 34200 Sète",
+	    "openHours": "Tuesday to Saturday - 10:00am to 19:00pm",
+	    "type" : "café, jus, plat du jour",
+	    "power": {"available": false},
+	    "wifi": {"available": false}
+	  }
+	]

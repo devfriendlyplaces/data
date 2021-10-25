@@ -1,4 +1,38 @@
 [
+     {
+        "name": "L'apparte",
+        "lat": 43.2912719,
+        "lon": 5.3847606,
+        "openHours": "Monday to Saturday, 10h00 - 19h00",
+        "address":  "6 Rue de Lodi, 13006 Marseille",
+        "type" : "coffeeshop/tearoom",
+        "url": "http://lapparte.business.site/",
+        "comment": "y'a un petit patio au calme et une grande table à l'intérieur pour bosser tranquille",
+        "power": {"available": true},
+        "wifi": {"available": true}
+    },
+    {
+        "name": "Café x Café",
+        "lat": 43.2926049,
+        "lon": 5.3847225,
+        "openHours": "Monday to Friday, 08h00 - 16h00; Saturday to Sunday, 09h00 - 13h00",
+        "address":  "2B Rue Fontange, 13006 Marseille",
+        "type" : "coffeeshop",
+        "power": {"available": false},
+        "wifi": {"available": false, "comment": "à vérifier, je n'ai pas demandé"}
+    },
+    {
+        "name": "Histoire de l'œil",
+        "lat": 43.2921037,
+        "lon": 5.3830756,
+        "openHours": "Tuesday to Saturday, 10h00 - 19h00",
+        "address":  "25 Rue Fontange, 13006 Marseille 06",
+        "comment": "y'a des tables en intérieur _et_ en extérieur, à l'ombre d'un arbre",
+        "type" : "bookshop",
+        "url": "http://histoiredeloeil.com",
+        "power": {"available": true},
+        "wifi": {"available": true}
+    },
     {
         "name": "Le Môle",
         "lat": 43.29531,

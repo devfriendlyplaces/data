@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Façon chocolat",
+    "lat": 44.7290414,
+    "lon": 5.0255095,
+    "address":  "Place des Moulins, 26400 Crest",
+    "url": "https://www.faconchocolat.fr",
+    "openHours": "Monday to Sunday - 08:00am to 19:30pm",
+    "type" : "café, salon de thé, chocolaterie",
+    "power": {"available": true},
+    "wifi": {"available": false}
+  }
+]

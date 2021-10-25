@@ -1,4 +1,44 @@
 [
+   {
+        "name": "Brunswick East",
+        "lat": 51.5491713,
+        "lon": -0.0789717,
+        "address": "Stamford Works, Gillett St, London N16 8JH",
+        "openHours": "Monday to Friday, 08:00 to 17:00; Saturday and Sunday, 09:00 to 17:00",
+        "type": "coffee shop, homemade, open kitchen",
+        "power": { "available": true },
+        "wifi": { "available": true }
+    },
+   {
+        "name": "South Library",
+        "lat": 51.5390506,
+        "lon": -0.1008359,
+        "address": "117 Essex Rd, London N1 2SL",
+        "openHours": "Monday and Wednesday, 09:30 to 20:00; Friday and Saturday, 09:30 to 17:00",
+        "type": "library, quiet",
+        "power": { "available": true },
+        "wifi": { "available": true }
+    },
+    {
+        "name": "Mildmay Library",
+        "lat": 51.5476059,
+        "lon": -0.0865848,
+        "address": "21-23 Mildmay Park, London N1 4NA",
+        "openHours": "Monday, 09:30 to 13:00; Tuesday and Thursday, 09:30 to 20:00; Saturday, 11:00 to 17:00",
+        "type": "library, quiet",
+        "power": { "available": true },
+        "wifi": { "available": true }
+    },
+    {
+        "name": "Kobo",
+        "lat": 51.5350033,
+        "lon": -0.1063137,
+        "address": "346 Upper St, London N1 0PD",
+        "openHours": "Monday to Friday, 07:00 to 19:00; Saturday and Sunday, 09:30 to 17:30",
+        "type": "coffee, bakery, quiet",
+        "power": { "available": true },
+        "wifi": { "available": true }
+    },
     {
         "name": "Dandy",
         "lat": 51.551252,

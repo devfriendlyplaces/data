@@ -48,6 +48,12 @@
         "defaultZoom": 14
     },
     {
+        "name": "Crest",
+        "lat": 44.7311897,
+        "lon": 4.98612,
+        "defaultZoom": 13
+    },
+    {
         "name": "Cumbria",
         "lat": 54.6190,
         "lon": -2.9004,
@@ -60,15 +66,33 @@
         "defaultZoom":  13
     },
     {
+        "name": "Epinal",
+        "lat": 48.174517,
+        "lon": 6.450162,
+        "defaultZoom":  13
+    },
+    {
         "name": "Fronton",
         "lat": 43.840098,
         "lon": 1.389654,
         "defaultZoom":  13
     },
     {
+        "name": "Gent",
+        "lat": 51.052974,
+        "lon": 3.7270591,
+        "defaultZoom":  13
+    },
+    {
         "name": "Lille",
         "lat": 50.6303,
         "lon": 3.053802,
+        "defaultZoom":  14
+    },
+    {
+        "name": "Luxembourg",
+        "lat": 49.6,
+        "lon": 6.116667,
         "defaultZoom":  14
     },
     {
@@ -168,6 +192,12 @@
         "defaultZoom": 12
     },
     {
+        "name" : "Nîmes",
+        "lat" : 43.8375711,
+        "lon" : 4.3413666,
+        "defaultZoom": 14
+    },
+    {
         "name" : "Nantes",
         "lat" : 47.2081436,
         "lon" : -1.5619954,
@@ -198,9 +228,27 @@
         "defaultZoom":  13
     },
     {
+        "name" : "Sète",
+        "lat" : 43.3942538,
+        "lon" : 3.6122974,
+        "defaultZoom":  13
+    },
+    {
         "name" : "Liège",
         "lat" : 50.6246191,
         "lon" : 5.5290505,
         "defaultZoom":  12
+    },
+    {
+        "name" : "Brive-la-Gaillarde",
+        "lat" : 45.158878,
+        "lon" : 1.533141,
+        "defaultZoom":  15
+    },
+    {
+        "name" : "Rouen",
+        "lat" : 49.4404,
+        "lon" : 1.0926, 
+        "defaultZoom": 15
     }
 ]

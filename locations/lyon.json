@@ -16,5 +16,23 @@
         "type": "coffee",
         "power": {"available": true},
         "wifi": {"available": true}
-    }
+    },
+    {
+        "name": "Puzzle Café",
+        "lat": 45.764192,
+        "lon": 4.833711,
+        "address":  "4 rue de la poullaillerie, 69002, Lyon",
+        "type": "coffee",
+        "power": {"available": true},
+        "wifi": {"available": true}
+    },
+    {
+        "name": "Le Labo",
+        "lat": 45.75029,
+        "lon": 4.83938,
+        "address":  "39 rue de Marseille, 69002, Lyon",
+        "type": "coffee",
+        "power": {"available": true},
+        "wifi": {"available": true}
+}
 ]
